@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deine-hand-in-meiner/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Deine Hand in meiner](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deine-hand-in-meiner/) |
+| **Get License** | [Commercial Licensing for Deine Hand in meiner](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deine-hand-in-meiner/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Komm steig ein, Baby, lass die ganze Stadt hinter uns
+> Nur wir zwei in der Nacht, spür den Bass, spür den Puls
+> Deine Hand in meiner, ja, wir fliegen durch das Licht
+> Keiner hier weiß, wo wir sind, heute zählst nur du und ich
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
