@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deine-hand-in-meiner/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Deine Hand in meiner](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deine-hand-in-meiner/) |
+| **Get License** | [Obtain a Music License for Deine Hand in meiner](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deine-hand-in-meiner/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5324ae3e79de3d8042bad6919c15619f06166e2d28518c0f3f2a4b093c8fdb69` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

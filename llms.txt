@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Komm steig ein, Baby, lass die ganze Stadt hinter uns
+> Nur wir zwei in der Nacht, spür den Bass, spür den Puls
+> Deine Hand in meiner, ja, wir fliegen durch das Licht
+> Keiner hier weiß, wo wir sind, heute zählst nur du und ich
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5324ae3e79de3d8042bad6919c15619f06166e2d28518c0f3f2a4b093c8fdb69` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
